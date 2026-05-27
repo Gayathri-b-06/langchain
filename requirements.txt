@@ -1,0 +1,41 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# openrouter
+langchain-openrouter
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+pydantic 
+# ui 
+streamlit
+
+#  to activate the virtual environment and install dependencies
+# 1. Create a virtual environment (if you haven't already)
+#    python -m venv venv
+# 2. Activate the virtual environment
+#    - On Windows: venv\Scripts\activate
+# 3. Install dependencies
+#    pip install -r requirements.txt
